@@ -49,4 +49,4 @@ If AI analysis is unavailable or as a first line of defense, the app checks for:
 - **Concurrency**: Kotlin Coroutines & Flow
 
 ---
-*Developed for Polihack 2025*
+*Developed for Polihack 2026*
